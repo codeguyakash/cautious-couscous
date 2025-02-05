@@ -1,0 +1,66 @@
+[
+  {
+    "campaign_name": "advertisement",
+    "start_time": "01:34:02",
+    "end_time": "01:34:31",
+    "video_url": "/data/user/0/com.prowtech/files/",
+    "duration": 29,
+    "file_type": "video",
+    "file_name": "1736537315_0d17bccefbdf4a742821.mp4",
+    "seek_time": 9
+  },
+  {
+    "campaign_name": "advertisement",
+    "start_time": "01:34:31",
+    "end_time": "01:34:44",
+    "video_url": "/data/user/0/com.prowtech/files/Secret1736537328_999a46645fd1e0c447f2.mp4",
+    "duration": 13,
+    "file_type": "video",
+    "file_name": "1736537328_999a46645fd1e0c447f2.mp4"
+  },
+  {
+    "campaign_name": "advertisement",
+    "start_time": "01:34:44",
+    "end_time": "01:35:04",
+    "video_url": "/data/user/0/com.prowtech/files/Secret1736537329_624b60d95571dda97b02.mp4",
+    "duration": 20,
+    "file_type": "video",
+    "file_name": "1736537329_624b60d95571dda97b02.mp4"
+  },
+  {
+    "campaign_name": "advertisement",
+    "start_time": "01:35:04",
+    "end_time": "01:35:33",
+    "video_url": "/data/user/0/com.prowtech/files/Secret1736537315_0d17bccefbdf4a742821.mp4",
+    "duration": 29,
+    "file_type": "video",
+    "file_name": "1736537315_0d17bccefbdf4a742821.mp4"
+  },
+  {
+    "campaign_name": "advertisement",
+    "start_time": "01:35:33",
+    "end_time": "01:35:46",
+    "video_url": "/data/user/0/com.prowtech/files/Secret1736537328_999a46645fd1e0c447f2.mp4",
+    "duration": 13,
+    "file_type": "video",
+    "file_name": "1736537328_999a46645fd1e0c447f2.mp4"
+  },
+  {
+    "campaign_name": "advertisement",
+    "start_time": "01:35:46",
+    "end_time": "01:36:06",
+    "video_url": "/data/user/0/com.prowtech/files/Secret1736537329_624b60d95571dda97b02.mp4",
+    "duration": 20,
+    "file_type": "video",
+    "file_name": "1736537329_624b60d95571dda97b02.mp4"
+  },
+  {
+    "campaign_name": "advertisement",
+    "start_time": "01:36:06",
+    "end_time": "01:36:35",
+    "video_url": "/data/user/0/com.prowtech/files/Secret1736537315_0d17bccefbdf4a742821.mp4",
+    "duration": 29,
+    "file_type": "video",
+    "file_name": "1736537315_0d17bccefbdf4a742821.mp4"
+  }
+]
